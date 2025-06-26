@@ -22,7 +22,7 @@ export default {
   },
   methods: {
     onClick: function () {
-      this.counter++;
+      this.counter += 1;
     },
   },
 };
