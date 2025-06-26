@@ -17,7 +17,7 @@ export default {
   },
   data: function () {
     return {
-      counter: 1,
+      counter: 0,
     };
   },
   methods: {
